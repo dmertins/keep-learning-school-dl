@@ -1,0 +1,8 @@
+# This file lists all project dependencies.
+# Run 'pip install -r requirements.txt' to install these packages in the
+# project's Python environment.
+
+# Direct dependencies
+selenium==3.141.0
+urllib3==1.26.2
+youtube-dl==2020.12.14
